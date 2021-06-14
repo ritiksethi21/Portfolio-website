@@ -1,6 +1,5 @@
 import { gsap, TimelineMax } from "gsap";
 import { CSSPlugin } from "gsap/CSSPlugin";
-
 gsap.registerPlugin(CSSPlugin);
 
 export default function guitarAnim() {
