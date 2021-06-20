@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import bounce from "../script/bounce";
 import ReactDOM from "react-dom";
-
 // import Script3 from "../script/script";
 import Globe from "../script/globe";
 function Skills() {
